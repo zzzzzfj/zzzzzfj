@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zhu Fujun
+# Hi 👋, I'm Zhu Fujun (Foch)
 
 ### Developer from China
 * 🔭 I’m **second-year master** student at [USTC](https://ustc.edu.cn/)
